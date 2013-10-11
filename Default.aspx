@@ -48,6 +48,8 @@
         <asp:Button ID="clearButton" runat="server" Text="Clear" Height="25px" Width="89px" />
        
     </p>
+        <p>
+            &nbsp;</p>
 
     <asp:Label ID="netpayLabel" runat="server"></asp:Label>
 

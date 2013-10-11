@@ -10,6 +10,7 @@ Partial Class _Default
         Dim pretax As Decimal = Val(pretaxTextBox.Text)
         Dim after As Decimal = Val(aftertaxTextBox.Text)
 
+
         'calculate gross earnings/week
         Dim grossEarnings As Decimal
         grossEarnings = wage * hours
